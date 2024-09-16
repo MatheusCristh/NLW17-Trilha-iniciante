@@ -1,0 +1,18 @@
+[
+  {
+    "value": "Tomar 3L de agua por dia",
+    "checked": false
+  },
+  {
+    "value": "Ir a academia",
+    "checked": false
+  },
+  {
+    "value": "Ler 10 páginas por dia",
+    "checked": false
+  },
+  {
+    "value": "Meditar",
+    "checked": false
+  }
+]
