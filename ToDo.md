@@ -6,3 +6,4 @@
 [X]Removar metas
 [X]Sistema de mensagens
 [X]Sistema de carregar e salvar metas
+[X]Persistencia de dados
